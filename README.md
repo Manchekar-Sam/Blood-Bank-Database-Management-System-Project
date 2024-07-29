@@ -1,4 +1,4 @@
-The Blood Bank Database Management System!
+The Blood Bank Database Management Website!
 This project is designed to streamline the operations of blood banks, ensuring efficiency and accuracy in managing blood stock and facilitating smooth access to critical information.
 
 Technology use: 
